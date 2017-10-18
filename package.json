@@ -18,6 +18,7 @@
 		"node": ">=6"
 	},
 	"dependencies": {
+		"chalk": "^2.2.0",
 		"multicast-channel": "^0.2.0"
 	},
 	"devDependencies": {
