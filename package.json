@@ -9,15 +9,16 @@
 	"keywords": [
 		"todo"
 	],
-	"author": "Jannis R <mail@jannisr.de>",
-	"homepage": "https://github.com/derhuerst/local-network-chat",
-	"repository": "derhuerst/local-network-chat",
-	"bugs": "https://github.com/derhuerst/local-network-chat/issues",
+	"author": "Hasan Ozdemir <ozdemir1127@gmail.com>",
+	"homepage": "https://github.com/oz1127/local-network-chat",
+	"repository": "oz1127/local-network-chat",
+	"bugs": "https://github.com/oz1127/local-network-chat/issues",
 	"license": "ISC",
 	"engines": {
 		"node": ">=6"
 	},
 	"dependencies": {
+		"multicast-channel": "^0.2.0"
 	},
 	"devDependencies": {
 		"tape": "^4.8.0",
